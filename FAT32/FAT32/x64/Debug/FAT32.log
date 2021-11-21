@@ -1,0 +1,28 @@
+﻿  Element.cpp
+C:\Users\Dam Hong Duc\Desktop\FAT32\FAT32\Element.cpp(38,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  FAT32.cpp
+C:\Users\Dam Hong Duc\Desktop\FAT32\FAT32\FAT32.cpp(10,60): warning C4244: '=': conversion from 'int64_t' to 'unsigned int', possible loss of data
+C:\Users\Dam Hong Duc\Desktop\FAT32\FAT32\FAT32.cpp(11,63): warning C4244: '=': conversion from 'int64_t' to 'unsigned int', possible loss of data
+C:\Users\Dam Hong Duc\Desktop\FAT32\FAT32\FAT32.cpp(12,65): warning C4244: '=': conversion from 'int64_t' to 'unsigned int', possible loss of data
+C:\Users\Dam Hong Duc\Desktop\FAT32\FAT32\FAT32.cpp(13,59): warning C4244: '=': conversion from 'int64_t' to 'unsigned int', possible loss of data
+C:\Users\Dam Hong Duc\Desktop\FAT32\FAT32\FAT32.cpp(14,93): warning C4244: '=': conversion from 'int64_t' to 'unsigned int', possible loss of data
+C:\Users\Dam Hong Duc\Desktop\FAT32\FAT32\FAT32.cpp(15,58): warning C4244: '=': conversion from 'int64_t' to 'unsigned int', possible loss of data
+C:\Users\Dam Hong Duc\Desktop\FAT32\FAT32\FAT32.cpp(26,53): warning C4244: '=': conversion from 'int64_t' to 'unsigned int', possible loss of data
+C:\Users\Dam Hong Duc\Desktop\FAT32\FAT32\FAT32.cpp(27,56): warning C4244: '=': conversion from 'int64_t' to 'unsigned int', possible loss of data
+C:\Users\Dam Hong Duc\Desktop\FAT32\FAT32\FAT32.cpp(28,58): warning C4244: '=': conversion from 'int64_t' to 'unsigned int', possible loss of data
+C:\Users\Dam Hong Duc\Desktop\FAT32\FAT32\FAT32.cpp(29,52): warning C4244: '=': conversion from 'int64_t' to 'unsigned int', possible loss of data
+C:\Users\Dam Hong Duc\Desktop\FAT32\FAT32\FAT32.cpp(30,86): warning C4244: '=': conversion from 'int64_t' to 'unsigned int', possible loss of data
+C:\Users\Dam Hong Duc\Desktop\FAT32\FAT32\FAT32.cpp(31,51): warning C4244: '=': conversion from 'int64_t' to 'unsigned int', possible loss of data
+C:\Users\Dam Hong Duc\Desktop\FAT32\FAT32\FAT32.cpp(173,40): warning C4244: 'initializing': conversion from 'int64_t' to 'unsigned int', possible loss of data
+C:\Users\Dam Hong Duc\Desktop\FAT32\FAT32\FAT32.cpp(185,59): warning C4244: '=': conversion from 'int64_t' to 'unsigned int', possible loss of data
+C:\Users\Dam Hong Duc\Desktop\FAT32\FAT32\FAT32.cpp(197,47): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Dam Hong Duc\Desktop\FAT32\FAT32\FAT32.cpp(204,98): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Dam Hong Duc\Desktop\FAT32\FAT32\FAT32.cpp(220,147): warning C4244: 'argument': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\Dam Hong Duc\Desktop\FAT32\FAT32\FAT32.cpp(227,47): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Dam Hong Duc\Desktop\FAT32\FAT32\FAT32.cpp(234,98): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Dam Hong Duc\Desktop\FAT32\FAT32\FAT32.cpp(250,13): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\Dam Hong Duc\Desktop\FAT32\FAT32\FAT32.cpp(258,13): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\Dam Hong Duc\Desktop\FAT32\FAT32\FAT32.cpp(326,13): warning C4129: ' ': unrecognized character escape sequence
+  Main.cpp
+  Generating Code...
+  FAT32.vcxproj -> C:\Users\Dam Hong Duc\Desktop\FAT32\x64\Debug\FAT32.exe

@@ -1,0 +1,37 @@
+﻿  NTFS.cpp
+C:\Users\User\source\repos\HDH\NTFS\NTFS\NTFS.cpp(80,16): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\User\source\repos\HDH\NTFS\NTFS\NTFS.cpp(102,14): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\User\source\repos\HDH\NTFS\NTFS\NTFS.cpp(132,14): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\User\source\repos\HDH\NTFS\NTFS\NTFS.cpp(134,21): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\User\source\repos\HDH\NTFS\NTFS\NTFS.cpp(139,20): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\User\source\repos\HDH\NTFS\NTFS\NTFS.cpp(145,39): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\User\source\repos\HDH\NTFS\NTFS\NTFS.cpp(175,14): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\User\source\repos\HDH\NTFS\NTFS\NTFS.cpp(177,18): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\User\source\repos\HDH\NTFS\NTFS\NTFS.cpp(179,18): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\User\source\repos\HDH\NTFS\NTFS\NTFS.cpp(182,14): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\User\source\repos\HDH\NTFS\NTFS\NTFS.cpp(186,23): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\User\source\repos\HDH\NTFS\NTFS\NTFS.cpp(187,24): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\User\source\repos\HDH\NTFS\NTFS\NTFS.cpp(232,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\HDH\NTFS\NTFS\NTFS.cpp(250,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\HDH\NTFS\NTFS\NTFS.cpp(276,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\HDH\NTFS\NTFS\NTFS.cpp(287,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\HDH\NTFS\NTFS\NTFS.cpp(295,35): warning C4244: 'initializing': conversion from 'int64_t' to 'unsigned int', possible loss of data
+C:\Users\User\source\repos\HDH\NTFS\NTFS\NTFS.cpp(296,38): warning C4244: 'initializing': conversion from 'int64_t' to 'unsigned int', possible loss of data
+C:\Users\User\source\repos\HDH\NTFS\NTFS\NTFS.cpp(297,36): warning C4244: 'initializing': conversion from 'int64_t' to 'unsigned int', possible loss of data
+C:\Users\User\source\repos\HDH\NTFS\NTFS\NTFS.cpp(298,32): warning C4244: 'initializing': conversion from 'int64_t' to 'unsigned int', possible loss of data
+C:\Users\User\source\repos\HDH\NTFS\NTFS\NTFS.cpp(299,27): warning C4244: 'initializing': conversion from 'int64_t' to 'unsigned int', possible loss of data
+C:\Users\User\source\repos\HDH\NTFS\NTFS\NTFS.cpp(300,33): warning C4244: 'initializing': conversion from 'int64_t' to 'unsigned int', possible loss of data
+C:\Users\User\source\repos\HDH\NTFS\NTFS\NTFS.cpp(318,19): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\User\source\repos\HDH\NTFS\NTFS\NTFS.cpp(321,17): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\User\source\repos\HDH\NTFS\NTFS\NTFS.cpp(328,18): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\User\source\repos\HDH\NTFS\NTFS\NTFS.cpp(332,13): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\User\source\repos\HDH\NTFS\NTFS\NTFS.cpp(335,44): warning C4244: '=': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\User\source\repos\HDH\NTFS\NTFS\NTFS.cpp(337,22): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\User\source\repos\HDH\NTFS\NTFS\NTFS.cpp(343,22): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\User\source\repos\HDH\NTFS\NTFS\NTFS.cpp(348,17): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\User\source\repos\HDH\NTFS\NTFS\NTFS.cpp(352,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\HDH\NTFS\NTFS\NTFS.cpp(363,20): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\User\source\repos\HDH\NTFS\NTFS\NTFS.cpp(369,32): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\User\source\repos\HDH\NTFS\NTFS\NTFS.cpp(381,37): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\User\source\repos\HDH\NTFS\NTFS\NTFS.cpp(394,23): warning C4018: '<': signed/unsigned mismatch
+  NTFS.vcxproj -> C:\Users\User\source\repos\HDH\NTFS\Debug\NTFS.exe
